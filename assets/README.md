@@ -2,7 +2,7 @@
 Generate your password allows a user to generate a password with numbers, lowercase characters, uppercase characters and special characters.  Generate your password will create passwords between 8 and 128 characters.
 
 # Installation
-Select the following link to view the webpage.  The link may also be copied and pasted into the browser for viewing.  
+Select the following link to view the webpage https://github.com/prettyinpurple/Generate_Your_Password.git.  The link may also be copied and pasted into the browser for viewing.  
 
 # Visuals
 ./assets/Generate_Your_Password.jpeg
